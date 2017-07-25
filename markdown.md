@@ -546,13 +546,13 @@ Here's our logo:
 
 Inline-style:
 
-![alt text](img/markdown_logo.png)
+![alt text](https://github.com/fluidicon.png)
 
 Reference-style:
 
 ![alt text][logo]
 
-[logo]: img/markdown_logo.png
+[logo]: https://github.com/fluidicon.png
 
 ### Blockquotes
 
