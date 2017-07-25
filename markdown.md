@@ -535,12 +535,12 @@ will point the link to `wikis/style` when the link is inside of a wiki markdown 
     Here's our logo (hover to see the title text):
 
     Inline-style:
-    ![alt text](img/markdown_logo.png)
+    ![alt text](https://github.com/fluidicon.png)
 
     Reference-style:
     ![alt text1][logo]
 
-    [logo]: img/markdown_logo.png
+    [logo]: https://github.com/fluidicon.png
 
 Here's our logo:
 
